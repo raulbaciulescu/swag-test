@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="com.university.features.search.LoginStory" skipped="0" tests="1" time="4.51" timestamp="2023-05-23 08:50:39"><testcase classname="com.university.features.search.LoginStory" name="Searching by keyword apple should display the corresponding article"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.DriverConfigurationError">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver&#13;
+com.university.pages.LoginPage.enterUsername(LoginPage.java:25)&#13;
+com.university.steps.serenity.SwagSteps.enterCredentials(SwagSteps.java:12)&#13;
+com.university.features.search.LoginStory.searching_by_keyword_apple_should_display_the_corresponding_article(LoginStory.java:23)&#13;
+</system-err></testcase></testsuite>
